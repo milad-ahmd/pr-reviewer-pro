@@ -54,6 +54,8 @@ The helper script [`collect_diff.sh`](skills/pr-reviewer-pro/scripts/collect_dif
 
 ## 🧩 More skills
 
+🧰 **[See all 13 skills and the one-line installer → milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills)**
+
 - ✨ [readme-glow-up](https://github.com/milad-ahmd/readme-glow-up): turn any README into a star magnet
 - 📚 [awesome-agent-skills](https://github.com/milad-ahmd/awesome-agent-skills): a curated list of Agent Skills
 
